@@ -1,0 +1,13 @@
+{
+  "name": "priori-fontawesome",
+  "url": "https://github.com/triture/priori-fontawesome",
+  "license": "MIT",
+  "tags": [ "html5", "web", "js", "javascript", "priori", "spa", "cross", "webapp"],
+  "description": "FontAwesome for Priori",
+  "version": "0.0.1",
+  "releasenote": "Initial release. Fully functional but many things are changing yet.",
+  "contributors": [ "triture" ],
+  "dependencies": {
+    "priori" : ""
+  }
+}
