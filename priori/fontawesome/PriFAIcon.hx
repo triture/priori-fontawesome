@@ -13,12 +13,13 @@ class PriFAIcon extends PriExtendable {
 
         this.iconColor = 0x000000;
         this.iconSize = 20;
+        this.clipping = false;
         this.icon = "fa-ship";
     }
 
     override private function getComponentCode():String {
         // http://fortawesome.github.io/Font-Awesome/examples/
-        return "<i class=\"fa\"></i>";
+        return "<i class=\"fa\" style=\"vertical-align: super;\"></i>";
     }
 
     @:noCompletion private function set_iconColor(value:Int) {
@@ -37,6 +38,9 @@ class PriFAIcon extends PriExtendable {
         if (this._baseElement != null) {
             this._baseElement.css("font-size", value);
         }
+
+        this.width = this.iconSize;
+        this.height = this.iconSize;
 
         return value;
     }
