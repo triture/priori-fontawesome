@@ -19,7 +19,7 @@ class PriFAIcon extends PriExtendable {
 
     override private function getComponentCode():String {
         // http://fortawesome.github.io/Font-Awesome/examples/
-        return "<i class=\"fa\" style=\"vertical-align: super;\"></i>";
+        return "<i class=\"fa\" style=\"vertical-align:super;text-align:center;\"></i>";
     }
 
     @:noCompletion private function set_iconColor(value:Int) {
