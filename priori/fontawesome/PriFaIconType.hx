@@ -3,6 +3,10 @@ package priori.fontawesome;
 class PriFaIconType {
 
     public static var _500PX:String = "fa-500px";
+    public static var ADDRESS_BOOK:String = "fa-address-book";
+    public static var ADDRESS_BOOK_O:String = "fa-address-book-o";
+    public static var ADDRESS_CARD:String = "fa-address-card";
+    public static var ADDRESS_CARD_O:String = "fa-address-card-o";
     public static var ADJUST:String = "fa-adjust";
     public static var ADN:String = "fa-adn";
     public static var ALIGN_CENTER:String = "fa-align-center";
@@ -51,11 +55,15 @@ class PriFaIconType {
     public static var BACKWARD:String = "fa-backward";
     public static var BALANCE_SCALE:String = "fa-balance-scale";
     public static var BAN:String = "fa-ban";
+    public static var BANDCAMP:String = "fa-bandcamp";
     public static var BANK:String = "fa-bank";
     public static var BAR_CHART:String = "fa-bar-chart";
     public static var BAR_CHART_O:String = "fa-bar-chart-o";
     public static var BARCODE:String = "fa-barcode";
     public static var BARS:String = "fa-bars";
+    public static var BATH:String = "fa-bath";
+    public static var BATHTUB:String = "fa-bathtub";
+    public static var BATTERY:String = "fa-battery";
     public static var BATTERY_0:String = "fa-battery-0";
     public static var BATTERY_1:String = "fa-battery-1";
     public static var BATTERY_2:String = "fa-battery-2";
@@ -205,19 +213,25 @@ class PriFaIconType {
     public static var DOT_CIRCLE_O:String = "fa-dot-circle-o";
     public static var DOWNLOAD:String = "fa-download";
     public static var DRIBBBLE:String = "fa-dribbble";
+    public static var DRIVERS_LICENSE:String = "fa-drivers-license";
+    public static var DRIVERS_LICENSE_O:String = "fa-drivers-license-o";
     public static var DROPBOX:String = "fa-dropbox";
     public static var DRUPAL:String = "fa-drupal";
     public static var EDGE:String = "fa-edge";
     public static var EDIT:String = "fa-edit";
+    public static var EERCAST:String = "fa-eercast";
     public static var EJECT:String = "fa-eject";
     public static var ELLIPSIS_H:String = "fa-ellipsis-h";
     public static var ELLIPSIS_V:String = "fa-ellipsis-v";
     public static var EMPIRE:String = "fa-empire";
     public static var ENVELOPE:String = "fa-envelope";
     public static var ENVELOPE_O:String = "fa-envelope-o";
+    public static var ENVELOPE_OPEN:String = "fa-envelope-open";
+    public static var ENVELOPE_OPEN_O:String = "fa-envelope-open-o";
     public static var ENVELOPE_SQUARE:String = "fa-envelope-square";
     public static var ENVIRA:String = "fa-envira";
     public static var ERASER:String = "fa-eraser";
+    public static var ETSY:String = "fa-etsy";
     public static var EUR:String = "fa-eur";
     public static var EURO:String = "fa-euro";
     public static var EXCHANGE:String = "fa-exchange";
@@ -231,6 +245,7 @@ class PriFaIconType {
     public static var EYE:String = "fa-eye";
     public static var EYE_SLASH:String = "fa-eye-slash";
     public static var EYEDROPPER:String = "fa-eyedropper";
+    public static var FA:String = "fa-fa";
     public static var FACEBOOK:String = "fa-facebook";
     public static var FACEBOOK_F:String = "fa-facebook-f";
     public static var FACEBOOK_OFFICIAL:String = "fa-facebook-official";
@@ -265,6 +280,7 @@ class PriFaIconType {
     public static var FIRE:String = "fa-fire";
     public static var FIRE_EXTINGUISHER:String = "fa-fire-extinguisher";
     public static var FIREFOX:String = "fa-firefox";
+    public static var FIRST_ORDER:String = "fa-first-order";
     public static var FLAG:String = "fa-flag";
     public static var FLAG_CHECKERED:String = "fa-flag-checkered";
     public static var FLAG_O:String = "fa-flag-o";
@@ -277,11 +293,13 @@ class PriFaIconType {
     public static var FOLDER_OPEN:String = "fa-folder-open";
     public static var FOLDER_OPEN_O:String = "fa-folder-open-o";
     public static var FONT:String = "fa-font";
+    public static var FONT_AWESOME:String = "fa-font-awesome";
     public static var FONTICONS:String = "fa-fonticons";
     public static var FORT_AWESOME:String = "fa-fort-awesome";
     public static var FORUMBEE:String = "fa-forumbee";
     public static var FORWARD:String = "fa-forward";
     public static var FOURSQUARE:String = "fa-foursquare";
+    public static var FREE_CODE_CAMP:String = "fa-free-code-camp";
     public static var FROWN_O:String = "fa-frown-o";
     public static var FUTBOL_O:String = "fa-futbol-o";
     public static var GAMEPAD:String = "fa-gamepad";
@@ -308,10 +326,13 @@ class PriFaIconType {
     public static var GLOBE:String = "fa-globe";
     public static var GOOGLE:String = "fa-google";
     public static var GOOGLE_PLUS:String = "fa-google-plus";
+    public static var GOOGLE_PLUS_CIRCLE:String = "fa-google-plus-circle";
+    public static var GOOGLE_PLUS_OFFICIAL:String = "fa-google-plus-official";
     public static var GOOGLE_PLUS_SQUARE:String = "fa-google-plus-square";
     public static var GOOGLE_WALLET:String = "fa-google-wallet";
     public static var GRADUATION_CAP:String = "fa-graduation-cap";
     public static var GRATIPAY:String = "fa-gratipay";
+    public static var GRAV:String = "fa-grav";
     public static var GROUP:String = "fa-group";
     public static var H_SQUARE:String = "fa-h-square";
     public static var HACKER_NEWS:String = "fa-hacker-news";
@@ -328,6 +349,7 @@ class PriFaIconType {
     public static var HAND_SCISSORS_O:String = "fa-hand-scissors-o";
     public static var HAND_SPOCK_O:String = "fa-hand-spock-o";
     public static var HAND_STOP_O:String = "fa-hand-stop-o";
+    public static var HANDSHAKE_O:String = "fa-handshake-o";
     public static var HARD_OF_HEARING:String = "fa-hard-of-hearing";
     public static var HASHTAG:String = "fa-hashtag";
     public static var HDD_O:String = "fa-hdd-o";
@@ -351,8 +373,12 @@ class PriFaIconType {
     public static var HOUZZ:String = "fa-houzz";
     public static var HTML5:String = "fa-html5";
     public static var I_CURSOR:String = "fa-i-cursor";
+    public static var ID_BADGE:String = "fa-id-badge";
+    public static var ID_CARD:String = "fa-id-card";
+    public static var ID_CARD_O:String = "fa-id-card-o";
     public static var ILS:String = "fa-ils";
     public static var IMAGE:String = "fa-image";
+    public static var IMDB:String = "fa-imdb";
     public static var INBOX:String = "fa-inbox";
     public static var INDENT:String = "fa-indent";
     public static var INDUSTRY:String = "fa-industry";
@@ -390,6 +416,7 @@ class PriFaIconType {
     public static var LINK:String = "fa-link";
     public static var LINKEDIN:String = "fa-linkedin";
     public static var LINKEDIN_SQUARE:String = "fa-linkedin-square";
+    public static var LINODE:String = "fa-linode";
     public static var LINUX:String = "fa-linux";
     public static var LIST:String = "fa-list";
     public static var LIST_ALT:String = "fa-list-alt";
@@ -422,8 +449,10 @@ class PriFaIconType {
     public static var MEANPATH:String = "fa-meanpath";
     public static var MEDIUM:String = "fa-medium";
     public static var MEDKIT:String = "fa-medkit";
+    public static var MEETUP:String = "fa-meetup";
     public static var MEH_O:String = "fa-meh-o";
     public static var MERCURY:String = "fa-mercury";
+    public static var MICROCHIP:String = "fa-microchip";
     public static var MICROPHONE:String = "fa-microphone";
     public static var MICROPHONE_SLASH:String = "fa-microphone-slash";
     public static var MINUS:String = "fa-minus";
@@ -475,6 +504,7 @@ class PriFaIconType {
     public static var PIE_CHART:String = "fa-pie-chart";
     public static var PIED_PIPER:String = "fa-pied-piper";
     public static var PIED_PIPER_ALT:String = "fa-pied-piper-alt";
+    public static var PIED_PIPER_PP:String = "fa-pied-piper-pp";
     public static var PINTEREST:String = "fa-pinterest";
     public static var PINTEREST_P:String = "fa-pinterest-p";
     public static var PINTEREST_SQUARE:String = "fa-pinterest-square";
@@ -487,6 +517,7 @@ class PriFaIconType {
     public static var PLUS_CIRCLE:String = "fa-plus-circle";
     public static var PLUS_SQUARE:String = "fa-plus-square";
     public static var PLUS_SQUARE_O:String = "fa-plus-square-o";
+    public static var PODCAST:String = "fa-podcast";
     public static var POWER_OFF:String = "fa-power-off";
     public static var PRINT:String = "fa-print";
     public static var PRODUCT_HUNT:String = "fa-product-hunt";
@@ -496,10 +527,12 @@ class PriFaIconType {
     public static var QUESTION:String = "fa-question";
     public static var QUESTION_CIRCLE:String = "fa-question-circle";
     public static var QUESTION_CIRCLE_O:String = "fa-question-circle-o";
+    public static var QUORA:String = "fa-quora";
     public static var QUOTE_LEFT:String = "fa-quote-left";
     public static var QUOTE_RIGHT:String = "fa-quote-right";
     public static var RA:String = "fa-ra";
     public static var RANDOM:String = "fa-random";
+    public static var RAVELRY:String = "fa-ravelry";
     public static var REBEL:String = "fa-rebel";
     public static var RECYCLE:String = "fa-recycle";
     public static var REDDIT:String = "fa-reddit";
@@ -513,6 +546,7 @@ class PriFaIconType {
     public static var REPEAT:String = "fa-repeat";
     public static var REPLY:String = "fa-reply";
     public static var REPLY_ALL:String = "fa-reply-all";
+    public static var RESISTANCE:String = "fa-resistance";
     public static var RETWEET:String = "fa-retweet";
     public static var RMB:String = "fa-rmb";
     public static var ROAD:String = "fa-road";
@@ -525,6 +559,7 @@ class PriFaIconType {
     public static var RUB:String = "fa-rub";
     public static var RUBLE:String = "fa-ruble";
     public static var RUPEE:String = "fa-rupee";
+    public static var S15:String = "fa-s15";
     public static var SAFARI:String = "fa-safari";
     public static var SAVE:String = "fa-save";
     public static var SCISSORS:String = "fa-scissors";
@@ -549,6 +584,7 @@ class PriFaIconType {
     public static var SHOPPING_BAG:String = "fa-shopping-bag";
     public static var SHOPPING_BASKET:String = "fa-shopping-basket";
     public static var SHOPPING_CART:String = "fa-shopping-cart";
+    public static var SHOWER:String = "fa-shower";
     public static var SIGN_IN:String = "fa-sign-in";
     public static var SIGN_LANGUAGE:String = "fa-sign-language";
     public static var SIGN_OUT:String = "fa-sign-out";
@@ -565,6 +601,7 @@ class PriFaIconType {
     public static var SNAPCHAT:String = "fa-snapchat";
     public static var SNAPCHAT_GHOST:String = "fa-snapchat-ghost";
     public static var SNAPCHAT_SQUARE:String = "fa-snapchat-square";
+    public static var SNOWFLAKE_O:String = "fa-snowflake-o";
     public static var SOCCER_BALL_O:String = "fa-soccer-ball-o";
     public static var SORT:String = "fa-sort";
     public static var SORT_ALPHA_ASC:String = "fa-sort-alpha-asc";
@@ -610,6 +647,7 @@ class PriFaIconType {
     public static var SUBWAY:String = "fa-subway";
     public static var SUITCASE:String = "fa-suitcase";
     public static var SUN_O:String = "fa-sun-o";
+    public static var SUPERPOWERS:String = "fa-superpowers";
     public static var SUPERSCRIPT:String = "fa-superscript";
     public static var SUPPORT:String = "fa-support";
     public static var TABLE:String = "fa-table";
@@ -619,6 +657,7 @@ class PriFaIconType {
     public static var TAGS:String = "fa-tags";
     public static var TASKS:String = "fa-tasks";
     public static var TAXI:String = "fa-taxi";
+    public static var TELEGRAM:String = "fa-telegram";
     public static var TELEVISION:String = "fa-television";
     public static var TENCENT_WEIBO:String = "fa-tencent-weibo";
     public static var TERMINAL:String = "fa-terminal";
@@ -627,6 +666,18 @@ class PriFaIconType {
     public static var TH:String = "fa-th";
     public static var TH_LARGE:String = "fa-th-large";
     public static var TH_LIST:String = "fa-th-list";
+    public static var THEMEISLE:String = "fa-themeisle";
+    public static var THERMOMETER:String = "fa-thermometer";
+    public static var THERMOMETER_0:String = "fa-thermometer-0";
+    public static var THERMOMETER_1:String = "fa-thermometer-1";
+    public static var THERMOMETER_2:String = "fa-thermometer-2";
+    public static var THERMOMETER_3:String = "fa-thermometer-3";
+    public static var THERMOMETER_4:String = "fa-thermometer-4";
+    public static var THERMOMETER_EMPTY:String = "fa-thermometer-empty";
+    public static var THERMOMETER_FULL:String = "fa-thermometer-full";
+    public static var THERMOMETER_HALF:String = "fa-thermometer-half";
+    public static var THERMOMETER_QUARTER:String = "fa-thermometer-quarter";
+    public static var THERMOMETER_THREE_QUARTERS:String = "fa-thermometer-three-quarters";
     public static var THUMB_TACK:String = "fa-thumb-tack";
     public static var THUMBS_DOWN:String = "fa-thumbs-down";
     public static var THUMBS_O_DOWN:String = "fa-thumbs-o-down";
@@ -636,6 +687,8 @@ class PriFaIconType {
     public static var TIMES:String = "fa-times";
     public static var TIMES_CIRCLE:String = "fa-times-circle";
     public static var TIMES_CIRCLE_O:String = "fa-times-circle-o";
+    public static var TIMES_RECTANGLE:String = "fa-times-rectangle";
+    public static var TIMES_RECTANGLE_O:String = "fa-times-rectangle-o";
     public static var TINT:String = "fa-tint";
     public static var TOGGLE_DOWN:String = "fa-toggle-down";
     public static var TOGGLE_LEFT:String = "fa-toggle-left";
@@ -676,11 +729,16 @@ class PriFaIconType {
     public static var USB:String = "fa-usb";
     public static var USD:String = "fa-usd";
     public static var USER:String = "fa-user";
+    public static var USER_CIRCLE:String = "fa-user-circle";
+    public static var USER_CIRCLE_O:String = "fa-user-circle-o";
     public static var USER_MD:String = "fa-user-md";
+    public static var USER_O:String = "fa-user-o";
     public static var USER_PLUS:String = "fa-user-plus";
     public static var USER_SECRET:String = "fa-user-secret";
     public static var USER_TIMES:String = "fa-user-times";
     public static var USERS:String = "fa-users";
+    public static var VCARD:String = "fa-vcard";
+    public static var VCARD_O:String = "fa-vcard-o";
     public static var VENUS:String = "fa-venus";
     public static var VENUS_DOUBLE:String = "fa-venus-double";
     public static var VENUS_MARS:String = "fa-venus-mars";
@@ -705,10 +763,16 @@ class PriFaIconType {
     public static var WHEELCHAIR_ALT:String = "fa-wheelchair-alt";
     public static var WIFI:String = "fa-wifi";
     public static var WIKIPEDIA_W:String = "fa-wikipedia-w";
+    public static var WINDOW_CLOSE:String = "fa-window-close";
+    public static var WINDOW_CLOSE_O:String = "fa-window-close-o";
+    public static var WINDOW_MAXIMIZE:String = "fa-window-maximize";
+    public static var WINDOW_MINIMIZE:String = "fa-window-minimize";
+    public static var WINDOW_RESTORE:String = "fa-window-restore";
     public static var WINDOWS:String = "fa-windows";
     public static var WON:String = "fa-won";
     public static var WORDPRESS:String = "fa-wordpress";
     public static var WPBEGINNER:String = "fa-wpbeginner";
+    public static var WPEXPLORER:String = "fa-wpexplorer";
     public static var WPFORMS:String = "fa-wpforms";
     public static var WRENCH:String = "fa-wrench";
     public static var XING:String = "fa-xing";
@@ -720,6 +784,7 @@ class PriFaIconType {
     public static var YC_SQUARE:String = "fa-yc-square";
     public static var YELP:String = "fa-yelp";
     public static var YEN:String = "fa-yen";
+    public static var YOAST:String = "fa-yoast";
     public static var YOUTUBE:String = "fa-youtube";
     public static var YOUTUBE_PLAY:String = "fa-youtube-play";
     public static var YOUTUBE_SQUARE:String = "fa-youtube-square";
@@ -728,7 +793,7 @@ class PriFaIconType {
     #if debug
     // https://fortawesome.github.io/Font-Awesome/cheatsheet/
     // var list = []; $("i.fa-fw").each(function() {list.push($(this).attr("title"));}); console.log(list.join("\n"));
-    private static function parseData(icoString:String):Void {
+    public static function parseData(icoString:String):Void {
         var icos:String = icoString;
 
         icos = icos.split("Copy to use ").join("");
@@ -738,7 +803,8 @@ class PriFaIconType {
         var n:Int = lines.length;
         var out:String = "";
         while (i < n) {
-            out += "\n public static var " + lines[i].toUpperCase().split("-").join("_") + ":String = \"fa-" + lines[i] + "\";";
+            var l:String = lines[i].split("\r").join("");
+            out += '\n public static var ${l.toUpperCase().split("-").join("_")}:String = "fa-${l}";';
             i++;
         }
 
