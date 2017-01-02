@@ -1,5 +1,6 @@
 package priori.fontawesome;
 
+import priori.style.shadow.PriShadowStyle;
 import priori.view.component.PriExtendable;
 
 class PriFAIcon extends PriExtendable {
@@ -45,6 +46,21 @@ class PriFAIcon extends PriExtendable {
         return value;
     }
 
+    override private function set_shadow(value:Array<PriShadowStyle>):Array<PriShadowStyle> {
+        this.shadow = value;
+
+        var shadowString:String = "";
+        if (value != null && value.length > 0) {
+            for (i in 0 ... value.length) {
+                if (i > 0) shadowString += ",";
+                shadowString += value[i].toString(1);
+            }
+        }
+
+        this.setCSS("text-shadow", shadowString);
+
+        return value;
+    }
 
     @:noCompletion private function set_icon(value:String) {
         this.icon = value;
