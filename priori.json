@@ -6,10 +6,16 @@
   "meta" : [],
 
   "link" : [
-    "<link rel=\"stylesheet\" href=\"fontawesome/css/font-awesome.min.css\">"
+    "<link rel=\"stylesheet\" href=\"fontawesome/css/font-awesome.min.css\">",
+    "<script type=\"text/javascript\" src=\"fontawesome5/priori-fontawesome5.js\"></script>",
+    "<script defer src=\"fontawesome5/fontawesome-all.min.js\"></script>"
   ],
 
   "dependencies" : [],
 
-  "template" : "template"
+  "template" : "template",
+
+  "main": "FontAwesomeDemo",
+
+  "src" : ["demo", ""]
 }
