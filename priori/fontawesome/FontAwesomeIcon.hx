@@ -77,6 +77,7 @@ class FontAwesomeIcon extends PriDisplay {
                     if (svg != null) {
                         svg.style.width = "100%";
                         svg.style.height = "100%";
+                        svg.style.verticalAlign = "super";
                     }
                 }
             }

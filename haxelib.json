@@ -4,8 +4,8 @@
   "license": "MIT",
   "tags": [ "html5", "web", "js", "javascript", "priori", "spa", "cross", "webapp"],
   "description": "FontAwesome for Priori",
-  "version": "0.2.0",
-  "releasenote": "Update to Font-Awesome 5.0.13",
+  "version": "0.2.1",
+  "releasenote": "Bugfix: cropped small icons",
   "contributors": [ "triture" ],
   "dependencies": {
     "priori" : ""
