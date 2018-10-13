@@ -40,7 +40,8 @@ class FontAwesomeIcon extends PriDisplay {
 
         if (this.color != value && value != null) {
             this.color = value;
-            this.dh.jselement.style.color = value.toString();
+            this.dh.styles.set("color", value.toString());
+            this.__updateStyle();
         }
 
         return value;
