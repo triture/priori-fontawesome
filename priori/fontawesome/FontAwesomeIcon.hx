@@ -66,7 +66,7 @@ class FontAwesomeIcon extends PriDisplay {
     }
 
     private function updateIcon():Void {
-        this.dh.jselement.innerHTML = '<span class="${this.icon}"></i>';
+        this.dh.jselement.innerHTML = '<i class="${this.icon}"></i>';
         this.getFontAwesome().dom.i2svg(
             {
                 node:this.dh.jselement,

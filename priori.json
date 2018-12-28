@@ -7,8 +7,8 @@
 
   "link" : [
     "<link rel=\"stylesheet\" href=\"fontawesome/css/font-awesome.min.css\">",
-    "<script type=\"text/javascript\" src=\"fontawesome5/priori-fontawesome5.js\"></script>",
-    "<script defer src=\"fontawesome5/fontawesome-all.min.js\"></script>"
+    "<script defer src=\"fontawesome_5_6_3/all.js\"></script>",
+    "<script type=\"text/javascript\" src=\"fontawesome_5_6_3/priori-fontawesome5.js\"></script>"
   ],
 
   "dependencies" : [],
